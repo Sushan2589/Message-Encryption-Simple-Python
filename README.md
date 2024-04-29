@@ -1,1 +1,1 @@
-# Message-Encryption-Simple-Python
+Simple program that inputs words or sentences from user and if the word is of 2 or less than 2 letters it reverses it and if its of 3 or more characters the first letter of the word is added to the last and random 3 characters are added at the start and end of thew word.
