@@ -1,5 +1,5 @@
 def encryption():
-    a=input("Enter word")
+    a=input("Enter the message you want to encrypt")
     words=a.split(" ")
     joined=[]
     print(words)
